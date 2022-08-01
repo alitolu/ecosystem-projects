@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\projects",
+    "\\projects\\aave",
+    "\\projects\\achain",
+    "\\projects\\adappter-token",
+    "\\projects\\adora-token"
   ],
-  "SelectedNode": "\\projects",
+  "SelectedNode": "\\projects\\adora-token\\logo.png",
   "PreviewInSolutionExplorer": false
 }
